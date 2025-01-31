@@ -4,3 +4,4 @@ this is from linux
 this is from feature-2
 this is from feature-3
 this is from feature-4
+new line
